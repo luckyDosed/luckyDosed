@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm @luckyDosed</h1>
 <h3 align="center">🚀 Your Dev Partner | Virtual CTO | Principal Engineer | Tech Lead</h3>
-I help teams and businesses bring big ideas to life — from enterprise blockchain platforms to high-growth eCommerce systems.
+<h5>I help teams and businesses bring big ideas to life — from enterprise blockchain platforms to high-growth eCommerce systems.</h5>
 
-💡 $85M+ Web3 revenue generated from NFT + DeFi launches at Meta Labs.
-⚡ Architected enterprise blockchain systems powering financial & environmental asset tracking.
-🛒 Built BigCommerce + Odoo integrations for retail compliance, POS, and automated workflows.
-🌍 Served 250+ clients globally, delivering end-to-end dev & design solutions.
-🎤 Experienced speaker & connector in blockchain and SaaS communities.
-
-Connector at heart → I thrive on building teams, scaling systems, and linking the right people with the right tech.
+<p>💡 $85M+ Web3 revenue generated from NFT + DeFi launches.</p>
+<p>⚡ Led enterprise blockchain adoption in ESG, finance, and energy sectors.</p>
+<p>🛒 Built custom eCommerce workflows integrating BigCommerce, Odoo, and SaaS tools to streamline compliance, POS, and shipping.</p>
+<p>🌍 Blended roles as developer, designer, connector, and biz dev strategist.</p>
+<p>🎤 Experienced speaker & connector in blockchain and SaaS communities.</p>
 
 <div align="center" style="padding-top: 30px">
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyWithU" /> -->

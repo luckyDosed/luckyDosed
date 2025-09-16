@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm @luckyDosed</h1>
 <h3 align="center">🚀 Your Dev Partner | Virtual CTO | Principal Engineer | Tech Lead</h3>
-<h5>I help teams and businesses bring big ideas to life — from enterprise blockchain platforms to high-growth eCommerce systems.</h5>
+<h4>I help teams and businesses bring big ideas to life — from enterprise blockchain platforms to high-growth eCommerce systems.</h4>
 
 <p>💡 $85M+ Web3 revenue generated from NFT + DeFi launches.</p>
 <p>⚡ Led enterprise blockchain adoption in ESG, finance, and energy sectors.</p>
